@@ -1,5 +1,6 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import React from 'react';
+import Footer from './footer';
 
 
 /**
@@ -9,11 +10,12 @@ import React from 'react';
  */
 
 class App extends React.Component{
-  constructor(){}
+
   render(){
     return (
       <div className="App">
-        
+        <p>test text</p>
+        <Footer/>
       </div>
     );
   }
