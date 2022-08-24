@@ -1,7 +1,7 @@
 //import logo from './logo.svg';
 import React from 'react';
 import Footer from './footer';
-
+import Header from './header';
 
 /**
  * This is the main funcion that will handle the Routing for the Kids Who Code Website.
@@ -14,6 +14,7 @@ class App extends React.Component{
   render(){
     return (
       <div className="App">
+        <Header/>
         <p>test text</p>
         <Footer/>
       </div>
