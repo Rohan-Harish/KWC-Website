@@ -18,7 +18,7 @@ class Footer extends React.Component {
         return (
 
             <footer>
-                <div class="footer">
+                <div class="footer justify-content-center">
 
                     <div class='left'>
                         <h1 class="kwc" style={remMarg}>Kids Who Code</h1>

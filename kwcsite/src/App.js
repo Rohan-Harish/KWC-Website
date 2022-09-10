@@ -2,6 +2,9 @@
 import React from 'react';
 import Footer from './footer';
 import Header from './header';
+import Content from './content';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 /**
  * This is the main funcion that will handle the Routing for the Kids Who Code Website.
@@ -15,7 +18,7 @@ class App extends React.Component{
     return (
       <div className="App">
         <Header/>
-        <p>test text</p>
+        <Content/>
         <Footer/>
       </div>
     );
