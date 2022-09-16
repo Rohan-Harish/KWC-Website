@@ -11,10 +11,7 @@ class Header extends React.Component {
                 <ul>
                     <li><h1 class="headertitle">KWC</h1></li>
                 </ul>
-
-
             </header>
-
         );
     }
 }
