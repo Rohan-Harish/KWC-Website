@@ -17,11 +17,11 @@ class Footer extends React.Component {
                     </div>
                     <div class='right'>
                         <h1>Contact Us:</h1>
-                        <a target="_blank" href="https://njit.campuslabs.com/engage/organization/kidswhocode" rel="noreferrer">
-                            <img class="icon" src={discord} alt="Highlander Hub Logo"></img>
+                        <a target="_blank" href="https://discord.gg/jfr262N3he" rel="noreferrer">
+                            <img class="icon" src={discord} alt="Discord Logo"></img>
                         </a>                        
-                        <a target="_blank" href="https://njit.campuslabs.com/engage/organization/kidswhocode" rel="noreferrer">
-                            <img class="icon" src={instagram} alt="Highlander Hub Logo"></img>
+                        <a target="_blank" href="https://www.instagram.com/njitkidswhocode" rel="noreferrer">
+                            <img class="icon" src={instagram} alt="Instagram Logo"></img>
                         </a>
                         <a target="_blank" href="https://njit.campuslabs.com/engage/organization/kidswhocode" rel="noreferrer">
                             <img class="icon" src={highhub} alt="Highlander Hub Logo"></img>
