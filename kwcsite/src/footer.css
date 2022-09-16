@@ -15,8 +15,13 @@
     justify-content: flex-end;
     margin-top: .5%;
 }
-.highHub{
+.icon{
     height: 7vh;
     margin:1vh;
     border-radius: 15px;
+}
+h1{
+    font-size: xx-large;
+    padding-left: '1%';
+
 }
