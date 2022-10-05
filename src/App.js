@@ -1,5 +1,8 @@
-import logo from './logo.svg';
 import React from 'react';
+import Footer from './footer';
+import Header from './header';
+import Content from './content';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 /**
@@ -9,11 +12,13 @@ import React from 'react';
  */
 
 class App extends React.Component{
-  constructor(){}
+
   render(){
     return (
       <div className="App">
-        
+        <Header/>
+        <Content/>
+        <Footer/>
       </div>
     );
   }

@@ -1,0 +1,27 @@
+.footer{
+    background: #FFCB9A;
+    justify-content: center;
+    bottom: 0%;
+    overflow: auto;
+}
+.left{
+    float:left;
+    width:40%;
+    margin:1%
+}
+.right{
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-top: .5%;
+}
+.icon{
+    height: 7vh;
+    margin:1vh;
+    border-radius: 15px;
+}
+h1{
+    font-size: xx-large;
+    padding-left: '1%';
+
+}
